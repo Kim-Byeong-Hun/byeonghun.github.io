@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My research interests lie in <mark>Computer Vision</mark>, <mark>Federated Learning</mark>, and <mark>Action Recognition</mark>.
 
-  Recently, I have been interested in applying <mark>large language models (LLMs)</mark> and <mark>multimodal language models</mark> to autonomous driving and intelligent transportation systems
+  Recently, I have been interested in applying <mark>large language model (LLM)</mark> and <mark>multi-modal large language models (MLLM)</mark> to <mark>autonomous driving</mark> and <mark>intelligent transportation systems</mark>.
 
   My research primarily focuses on applying deep learning and machine learning to improve traffic safety and predict pedestrian risk through computer vision technology.
 #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -115,22 +115,46 @@ content:
 
                - <b>Byeonghun Kim</b>, Byeongjoon Noh*, "Multi-Vision Model Scheduling System for Passenger Risk Behavior Detection in UAM", <mark>The 2024 Korean Society of ITS Spring Conference</mark>, URL: [Link](https://www.earticle.net/Article/A445727)
 
-  #- title: Experience
-  #  layout: list
-  #  content:
-  #    - layout: right
-  #      title: Company name
-  #      sub_title: Job title
-  #      caption: Date Range (eg. November 2016 - present)
-  #      link: Link to company (optional)
-  #      quote: >
-  #        Short description of the company (optional)
-  #      description: | # this will include new lines to allow paragraphs
-  #        Description of role
+content:
+  - title: Projects # Title for the section
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        title: asd
+        link: sproogen.github.io/modern-resume-theme
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/sproogen/modern-resume-theme
+        quote: >
+          asdfasdfasdfasdf
+        description: |
+          asdf
+
+
+      - layout: top-middle
+        title: asdf
+        link: www.itsgoingto.be
+        additional_links:
+          - title: sproogen/itsgoingto.be
+            icon: fab fa-github
+            url: https://github.com/sproogen/itsgoingto.be
+        quote: >
+          asdfasdfasdf
+        description: |
+          asdfasdfasdfasdfasdf
 
   - title: Education
     layout: list
     content:
+      - layout: right
+        title: Soonchunhyang Univ.
+        sub_title: Master of Science
+        caption: 2023.09 - 2025.08
+        quote: >
+          GPA: 4.5/4.5
+
       - layout: right
         title: Soonchunhyang Univ.
         sub_title: Bachelor of Engineering
@@ -138,12 +162,6 @@ content:
         quote: >
           GPA: 3.38/4.5
 
-      - layout: right
-        title: Soonchunhyang Univ.
-        sub_title: Master of Science
-        caption: 2023.09 - 2025.08
-        quote: >
-          GPA: 4.5/4.5
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
   #- title: A Little More About Me
