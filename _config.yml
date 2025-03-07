@@ -191,8 +191,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: 
-        sub_title: 
+        title: ASDF
+        sub_title: ASDF
         caption: July 2021 - Present
         description: |
         1234
