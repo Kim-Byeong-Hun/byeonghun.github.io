@@ -121,7 +121,7 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: asd
+        title: 한글
         link: sproogen.github.io/modern-resume-theme
         additional_links:
           - title: sproogen/modern-resume-theme
