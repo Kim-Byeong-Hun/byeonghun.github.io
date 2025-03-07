@@ -124,10 +124,10 @@ content:
         title: 이공분야 학술연구지원사업
         sub_title: 한국연구재단(NRF), Korea
         caption: Sep. 2024 - Present
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/sproogen/modern-resume-theme
+#        additional_links:
+#          - title: sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: https://github.com/sproogen/modern-resume-theme
         quote: >
           연구 책임자
         description: |
@@ -138,10 +138,10 @@ content:
         title: 융합연구분야 선도연구센터(CRC)
         sub_title: 한국연구재단(NRF), Korea
         caption: Dec. 2023 - Dec. 2024
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+#        additional_links:
+#          - title: sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: https://github.com/sproogen/modern-resume-theme
         quote: >
           Vision team 연구원
         description: |
