@@ -122,7 +122,7 @@ content:
       - layout: top-middle
         border: weak
         title: 이공분야 학술연구지원사업
-        link: 한국연구재단(NRF), Korea
+        subtitle: 한국연구재단(NRF), Korea
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
