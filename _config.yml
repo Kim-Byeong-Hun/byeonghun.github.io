@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Kim-Byeong-Hun/Kim-Byeong-Hun.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -50,7 +50,7 @@ googlescholar_username: Byeonghun Kim
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_bh.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Master student at Department of Future Convergence Technology in Soonchunhyang University and advised by [Byeongjoon Noh](https://sites.google.com/view/bj-noh). 
 
