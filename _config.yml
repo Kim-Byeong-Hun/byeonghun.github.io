@@ -10,7 +10,7 @@ name: Byeonghun Kim
 title: Master Student at Computer Science in SCH Univ.
 email: byeonghun@sch.ac.kr
 # email_title: Email (Email title override)
-#phone: Your phone number (optional)
+phone: 010-5015-5129
 # phone_title: Phone (Phone title override)
 website: https://kim-byeong-hun.github.io/
 # website_title: Web (Website title override)
@@ -26,7 +26,7 @@ github_username:  Kim-Byeong-Hun
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: byeong_.h
-linkedin_username: Byeonghun Kim
+linkedin_username: byeonghun-kim
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,8 +52,10 @@ googlescholar_username: Byeonghun Kim
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Master student at Department of Future Convergence Technology in Soonchunhyang University and advised by [Byeongjoon Noh](https://sites.google.com/view/bj-noh).
-  My research interests lie in <mark>Computer Vision</mark>, <mark>Federated Learning</mark>, and <mark>Action Recognition</mark>. \\
+  I am a Master student at Department of Future Convergence Technology in Soonchunhyang University and advised by [Byeongjoon Noh](https://sites.google.com/view/bj-noh). 
+
+  My research interests lie in <mark>Computer Vision</mark>, <mark>Federated Learning</mark>, and <mark>Action Recognition</mark>.
+
   Recently, I have been interested in applying <mark>large language models (LLMs)</mark> and <mark>multimodal language models</mark> to autonomous driving and intelligent transportation systems
 
   My research primarily focuses on applying deep learning and machine learning to improve traffic safety and predict pedestrian risk through computer vision technology.
@@ -85,7 +87,7 @@ content:
         #quote: >
         #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs\
-              -<b>[Under review]<\b> <b>Byeonghun Kim<\b>, Byeongjoon Noh* "Pedestrian Collapse Detection Method with Federated Spatio-Temporal Transformers in Distributed Road Surveillance Systems" <mark>IEEE Transactions on Intelligent Transportation Systems</mark>
+              -<b>[Under review]</b> <b>Byeonghun Kim</b>, Byeongjoon Noh* "Pedestrian Collapse Detection Method with Federated Spatio-Temporal Transformers in Distributed Road Surveillance Systems" <mark>IEEE Transactions on Intelligent Transportation Systems</mark>
 
               -<b>Byeonghun Kim</b>, Byeongjoon Noh* "Federated Learning-based Road Surveillance System in Distributed CCTV Environment: Pedestrian Fall Recognition using Spatio-Temporal Attention Networks" <mark>Applied Intelligence</mark>
               url: [Link](http://foobar.com)
