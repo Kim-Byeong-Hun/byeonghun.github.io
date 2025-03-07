@@ -123,13 +123,13 @@ content:
         border: weak
         title: 이공분야 학술연구지원사업
         sub_title: 한국연구재단(NRF), Korea
-        caption: Sep. 2024 - Present \\ 연구 책임자(기여도: 100)
+        caption: Sep. 2024 - Present
         additional_links:
           - title: Fed-PFR
             icon: fab fa-github
             url: https://github.com/Kim-Byeong-Hun/Fed-PFR
         quote: >
-          연구 책임자(기여도: 100)
+          차세대 지능형 교통안전시스템을 위한 컴퓨터 비전기반 도로위험행동 예측모델의 개인화 준지도 연합학습
         description: |
           asdf
 
@@ -142,13 +142,13 @@ content:
             icon: fab fa-github
             url: https://github.com/Kim-Byeong-Hun/AS-PCI
         quote: >
-          Vision team 연구원(기여도: 60)
+          감성 지능형 아동케어시스템을 위한 비전 기반 부모-아동 상호작용 모듈 개발
         description: |
           asdfasdfasdfasdfasdf
 
       - layout: top-middle
         border: weak
-        title: 산학공동프로젝트
+        title: 산학협력 공동프로젝트
         sub_title: 순천향대학교 산학협력단, Korea
         caption: Mar. 2024 - Oct. 2024
         additional_links:
@@ -156,7 +156,7 @@ content:
             icon: fab fa-github
             url: https://github.com/Kim-Byeong-Hun/Fed-PFR
         quote: >
-          대표 연구원(기여도: 100)
+          Drone-Vision context 기반 도로 상황 분석 및 차량 행동 예측 프레임워크 개발
         description: |
           asdf
 
@@ -169,20 +169,20 @@ content:
             icon: fab fa-github
             url: https://github.com/Kim-Byeong-Hun/AS-PCI
         quote: >
-          연구원(기여도: 60)
+          도심항공교통(UAM) 내, 비전 기반 위험 행동 감지 모델 개발
         description: |
           asdfasdfasdfasdfasdf
 
       - layout: top-middle
-        title: 대전광역시 도심항공교통(UAM) 도입방안 연구
-        sub_title: 대전광역시, Korea
-        caption: Sep. 2023 - Jan. 2024
+        title: 낙상사고 위험동작 영상-센서 쌍 데이터 구축 및 낙상사고 감지 연구
+        sub_title: NIA 한국지능정보사회진흥원, 한국연구재단(NRF), Korea
+        caption: Oct. 2023 - Dec. 2023
         additional_links:
           - title: Analytic system for Parent-child interactions
             icon: fab fa-github
             url: https://github.com/Kim-Byeong-Hun/AS-PCI
         quote: >
-          연구원(기여도: 60)
+          Multi-modal(Vision, Sensor) 낙상사고 예측 모델 개발
         description: |
           asdfasdfasdfasdfasdf
 
