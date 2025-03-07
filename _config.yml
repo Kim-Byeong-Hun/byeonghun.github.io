@@ -123,27 +123,66 @@ content:
         border: weak
         title: 이공분야 학술연구지원사업
         sub_title: 한국연구재단(NRF), Korea
-        caption: Sep. 2024 - Present
-#        additional_links:
-#          - title: sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: https://github.com/sproogen/modern-resume-theme
+        caption: Sep. 2024 - Present \\ 연구 책임자(기여도: 100)
+        additional_links:
+          - title: Fed-PFR
+            icon: fab fa-github
+            url: https://github.com/Kim-Byeong-Hun/Fed-PFR
         quote: >
-          연구 책임자
+          연구 책임자(기여도: 100)
         description: |
           asdf
-
 
       - layout: top-middle
         title: 융합연구분야 선도연구센터(CRC)
         sub_title: 한국연구재단(NRF), Korea
         caption: Dec. 2023 - Dec. 2024
-#        additional_links:
-#          - title: sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: https://github.com/sproogen/modern-resume-theme
+        additional_links:
+          - title: Analytic system for Parent-child interactions
+            icon: fab fa-github
+            url: https://github.com/Kim-Byeong-Hun/AS-PCI
         quote: >
-          Vision team 연구원
+          Vision team 연구원(기여도: 60)
+        description: |
+          asdfasdfasdfasdfasdf
+
+      - layout: top-middle
+        border: weak
+        title: 산학공동프로젝트
+        sub_title: 순천향대학교 산학협력단, Korea
+        caption: Mar. 2024 - Oct. 2024
+        additional_links:
+          - title: Fed-PFR
+            icon: fab fa-github
+            url: https://github.com/Kim-Byeong-Hun/Fed-PFR
+        quote: >
+          대표 연구원(기여도: 100)
+        description: |
+          asdf
+
+      - layout: top-middle
+        title: 대전광역시 도심항공교통(UAM) 도입방안 연구
+        sub_title: 대전광역시, Korea
+        caption: Sep. 2023 - Jan. 2024
+        additional_links:
+          - title: Analytic system for Parent-child interactions
+            icon: fab fa-github
+            url: https://github.com/Kim-Byeong-Hun/AS-PCI
+        quote: >
+          연구원(기여도: 60)
+        description: |
+          asdfasdfasdfasdfasdf
+
+      - layout: top-middle
+        title: 대전광역시 도심항공교통(UAM) 도입방안 연구
+        sub_title: 대전광역시, Korea
+        caption: Sep. 2023 - Jan. 2024
+        additional_links:
+          - title: Analytic system for Parent-child interactions
+            icon: fab fa-github
+            url: https://github.com/Kim-Byeong-Hun/AS-PCI
+        quote: >
+          연구원(기여도: 60)
         description: |
           asdfasdfasdfasdfasdf
 
