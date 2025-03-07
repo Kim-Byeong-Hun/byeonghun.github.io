@@ -106,9 +106,9 @@ content:
         border: weak
         title: Domestic Conference
         description: |
-               - <b>김병훈</b>, 노병준*, "분산 CCTV 환경에서의 연합학습 기반 도로 감시 시스템: 시공간 키포인트 트랜스포머 네트워크를 이용한 보행자 쓰러짐 감지", <mark>2024 한국 ITS 학회 추계학술대회</mark>
+               - <b>Byeonghun Kim</b>, Byeongjoon Noh*, "Federated Learning-based Road Surveillance System in Distributed CCTV Environment : Pedestrian Fall Detection using Spatio-Temporal Keypoints Transformer", <mark>The 2024 Korean Society of ITS Fall Conference</mark>
 
-               - <b>김병훈</b>, 노병준*, "무인 드론 기체 내 승객 위험 행동 감지를 위한 다중 비전 모델 스케줄링 시스템", <mark>2024 한국 ITS 학회 춘계학술대회</mark>
+               - <b>Byeonghun Kim</b>, Byeongjoon Noh*, "Multi-Vision Model Scheduling System for Passenger Risk Behavior Detection in UAM", <mark>The 2024 Korean Society of ITS Spring Conference</mark>
 
   #- title: Experience
   #  layout: list
@@ -122,15 +122,7 @@ content:
   #        Short description of the company (optional)
   #      description: | # this will include new lines to allow paragraphs
   #        Description of role
-  - title: Academic Activities
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Sub-Reviewer
-        description: |
-            MFCS 2021, SOSA 2023, ISAAC 2023, ESA 2023, ISAAC 2024, CGTA
+
   - title: Education
     layout: list
     content:
